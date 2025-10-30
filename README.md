@@ -4,7 +4,10 @@ The **LED Night Light** is a compact, energy-efficient device that provides gent
 
 The circuit can be first assembled on a **breadboard** for prototyping and testing. Components include resistors, LEDs, a photoresistor, a battery, and jumper wires. This allows students to verify connections and observe LED behavior under different lighting conditions.
 
-![Breadboard LED Night Light](./figures/breadboard_circuit_fritzing.jpg)  
+![Breadboard LED Night Light]()  
+<p align="center">
+  <img src="./figures/breadboard_circuit_fritzing.jpg" alt="LED Night Light" width="300"/>
+</p>
 *Breadboard setup of the LED Night Light.*
 
 After testing, the design can be transferred to a **PCB (printed circuit board)** for a permanent, reliable solution. Students assemble the PCB without soldering, bending component leads into pre-designed holes, learning PCB layout, component placement, and practical assembly skills.
