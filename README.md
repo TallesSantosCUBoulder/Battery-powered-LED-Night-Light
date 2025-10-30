@@ -7,13 +7,15 @@ The circuit can be first assembled on a **breadboard** for prototyping and testi
 <p align="center">
   <img src="./figures/breadboard_circuit_fritzing.jpg" alt="Breadboard LED Night Light" width="300"/>
 </p>
-*Breadboard setup of the LED Night Light.*
+<p align="center"><em>Figure 1: *Breadboard setup of the LED Night Light.*</em></p>
+
 
 After testing, the design can be transferred to a **PCB (printed circuit board)** for a permanent, reliable solution. Students assemble the PCB without soldering, bending component leads into pre-designed holes, learning PCB layout, component placement, and practical assembly skills.
 
 <p align="center">
   <img src="figures/PCB_board.png" alt="PCB LED Night Light" width="300"/>
 </p>
-*Assembled PCB version of the Battery-Powered LED Night Light.*
+<p align="center"><em>Figure 2: *Assembled PCB version of the Battery-Powered LED Night Light.*</em></p>
+
 
 This project provides a hands-on experience that reinforces concepts in semiconductors, sensors, energy conversion, and circuit fundamentals while resulting in a functional, real-world device.
