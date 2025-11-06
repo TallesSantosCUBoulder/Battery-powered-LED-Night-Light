@@ -18,4 +18,4 @@ After testing, the design can be transferred to a **PCB (printed circuit board)*
 <p align="center"><em>Figure 2: *Assembled PCB version of the Battery-Powered LED Night Light.*</em></p>
 
 
-This project provides a hands-on experience that reinforces concepts in semiconductors, sensors, energy conversion, and circuit fundamentals while resulting in a functional, real-world device.
+This project provides a hands-on experience that reinforces concepts in semiconductors, sensors, energy conversion, and circuit fundamentals while resulting in a functional, real-world device..
